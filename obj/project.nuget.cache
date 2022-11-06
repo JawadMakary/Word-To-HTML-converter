@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8jsG1hSm7i6aGG3LSAm1eX0uJwSjUpyfI6Xqbz1xZSbu3VA6vJlMB/i1gRNF9ufJ2ZyL5QGeJr2+8WIrpifFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jawad\\OneDrive\\Desktop\\m109\\WORDTOHTML\\WORDTOHTML\\WORDTOHTML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jawad\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\jawad\\.nuget\\packages\\documentformat.openxml.features\\2.18.0\\documentformat.openxml.features.2.18.0.nupkg.sha512",
+    "C:\\Users\\jawad\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\jawad\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\jawad\\.nuget\\packages\\open-xml-powertools\\4.4.0\\open-xml-powertools.4.4.0.nupkg.sha512",
+    "C:\\Users\\jawad\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\jawad\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
